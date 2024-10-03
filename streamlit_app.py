@@ -56,4 +56,4 @@ if uploaded_file:
     answer = get_answer_from_model(document, client)
 
     # Display the answer in the Streamlit app.
-    st.markdown(answer)
+    st.markdown(answer, unsafe_allow_html=True)
