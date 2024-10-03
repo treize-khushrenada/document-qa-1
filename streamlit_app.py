@@ -26,8 +26,6 @@ uploaded_file = st.file_uploader(
 #     disabled=not uploaded_file,
 # )
 
-client = OpenAI(api_key= os.getenv("OPENAI_API_KEY"))
-
 client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"),
   api_key= os.getenv("AZURE_OPENAI_API_KEY"),
@@ -48,7 +46,7 @@ if uploaded_file:
             }
         ]
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="us-east-gpt-4o-0513",
             messages=messages,
             stream=False,
         )
