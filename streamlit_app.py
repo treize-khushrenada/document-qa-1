@@ -46,7 +46,7 @@ if uploaded_file:
             }
         ]
         response = client.chat.completions.create(
-            model="us-east-gpt-4o-0513",
+            model="us-east-gpt-4o-mini-2024-07-18",
             messages=messages,
             stream=False,
         )
