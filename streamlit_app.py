@@ -1,5 +1,6 @@
 import streamlit as st
 from openai import OpenAI
+from openai import AzureOpenAI
 import os
 # comment
 # Show title and description.
@@ -26,6 +27,12 @@ uploaded_file = st.file_uploader(
 # )
 
 client = OpenAI(api_key= os.getenv("OPENAI_API_KEY"))
+
+client = AzureOpenAI(
+  azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"),
+  api_key= os.getenv("AZURE_OPENAI_API_KEY"),
+  api_version="2024-05-01-preview"
+)
 
 
 if uploaded_file:
