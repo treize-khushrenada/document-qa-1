@@ -1,6 +1,4 @@
 import streamlit as st
-from openai import OpenAI
-from openai import AzureOpenAI
 import os
 # comment
 # Show title and description.
