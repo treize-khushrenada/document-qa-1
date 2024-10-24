@@ -4,5 +4,5 @@ from openai import AzureOpenAI
 import os
 # comment
 # Show title and description.
-
-st.video("https://socialanalyticsplus.net/demo/SKH/videos/Breakingbadnews.mp4", format="video/mp4")
+if st.button("Start", use_container_width=True):
+    st.video("https://socialanalyticsplus.net/demo/SKH/videos/Breakingbadnews.mp4", format="video/mp4", autoplay="true")
