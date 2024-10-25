@@ -13,6 +13,6 @@ if st.button("Start"):
     
     with col2:
 
-        for tick in range(10):
-            time.sleep(.5)
-            print("yah")
+        for tick in range(118):
+            time.sleep(1)
+            st.text("tick")
