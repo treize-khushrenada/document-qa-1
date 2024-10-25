@@ -1,107 +1,107 @@
-start_time,end_time,transcript,tAnger,tFear,tSadness,tJoy,tValence,sAnger,sFear,sJoy,sNeutral,sSadness,vValence,vArousal,vIntensity,vCategory,predictive summary
-0.0,1.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-1.0,2.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-2.0,3.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-3.0,4.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-4.0,5.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-5.0,6.0,"Hi, my name's Hayden. I'm one of the senior emergency doctors on today.",0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,00.0750,00.1904,Neutral,"Overall, the person in this video is not expressing any emotion."
-6.24,7.24,I wanted to talk to you about what's happened with your grandfather.,0.419,0.558,0.637,0.189,0.311,0.122,0.034,0.081,0.396,0.122,-0.1500,00.1000,00.1803,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-7.24,8.24,I wanted to talk to you about what's happened with your grandfather.,0.419,0.558,0.637,0.189,0.311,0.122,0.034,0.081,0.396,0.122,-0.1500,00.1000,00.1803,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-8.52,9.52,I'm going to give you all the details about what's happened in just a moment.,0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,00.0750,00.1250,Neutral,"Overall, the person in this video is not expressing any emotion."
-9.52,10.52,I'm going to give you all the details about what's happened in just a moment.,0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,00.0750,00.1250,Neutral,"Overall, the person in this video is not expressing any emotion."
-10.52,11.52,I'm going to give you all the details about what's happened in just a moment.,0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,00.0750,00.1250,Neutral,"Overall, the person in this video is not expressing any emotion."
-11.52,12.52,I'm going to give you all the details about what's happened in just a moment.,0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,00.0750,00.1250,Neutral,"Overall, the person in this video is not expressing any emotion."
-13.24,14.24,"But first, it would be really helpful for me to know what your understanding of the situation is.",0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing low-intensity sadness*."
-14.24,15.24,"But first, it would be really helpful for me to know what your understanding of the situation is.",0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing low-intensity sadness*."
-15.24,16.240000000000002,"But first, it would be really helpful for me to know what your understanding of the situation is.",0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing low-intensity sadness*."
-16.240000000000002,17.240000000000002,"But first, it would be really helpful for me to know what your understanding of the situation is.",0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing low-intensity sadness*."
-18.08,19.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-19.08,20.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-20.08,21.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-21.08,22.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-22.08,23.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-23.08,24.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-24.08,25.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-25.08,26.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-26.08,27.08,"Okay, well, I need to let you know that I have some very difficult news to share with you.",0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,00.1000,00.1250,Neutral,"Overall, the person in this video is expressing moderate-intensity Fear-Anxiety."
-27.88,28.88,"Are you happy for me to share the information now, or would you prefer me to wait",0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,00.0250,00.3260,Slightly miserable,"Overall, the person in this video is not expressing any emotion."
-28.88,29.88,"Are you happy for me to share the information now, or would you prefer me to wait",0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,00.0250,00.3260,Slightly miserable,"Overall, the person in this video is not expressing any emotion."
-29.88,30.88,"Are you happy for me to share the information now, or would you prefer me to wait",0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,00.0250,00.3260,Slightly miserable,"Overall, the person in this video is not expressing any emotion."
-30.88,31.88,"Are you happy for me to share the information now, or would you prefer me to wait",0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,00.0250,00.3260,Slightly miserable,"Overall, the person in this video is not expressing any emotion."
-32.36,33.36,until you have another support person here with you?,0.33,0.42,0.463,0.295,0.424,0.059,0.026,0.072,0.369,0.059,-0.1000,00.1750,00.2016,Slightly alarmed,"Overall, the person in this video is expressing moderate-intensity Sadness."
-33.36,34.36,until you have another support person here with you?,0.33,0.42,0.463,0.295,0.424,0.059,0.026,0.072,0.369,0.059,-0.1000,00.1750,00.2016,Slightly alarmed,"Overall, the person in this video is expressing moderate-intensity Sadness."
-35.2,36.2,Your grandfather was involved in a car accident today.,0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-36.2,37.2,Your grandfather was involved in a car accident today.,0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-37.2,38.2,Your grandfather was involved in a car accident today.,0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-38.2,39.2,Your grandfather was involved in a car accident today.,0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-39.32,40.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-40.32,41.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-41.32,42.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-42.32,43.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-43.32,44.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-44.32,45.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-45.32,46.32,He suffered some very severe injuries to his head and to his chest.,0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,00.0500,-0.1000,00.1118,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-47.2,48.2,He was brought into the emergency department in a very serious condition.,0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,00.0500,00.1820,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-48.2,49.2,He was brought into the emergency department in a very serious condition.,0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,00.0500,00.1820,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-49.2,50.2,He was brought into the emergency department in a very serious condition.,0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,00.0500,00.1820,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-50.2,51.2,He was brought into the emergency department in a very serious condition.,0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,00.0500,00.1820,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-52.12,53.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-53.12,54.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-54.12,55.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-55.12,56.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-56.12,57.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-57.12,58.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-58.12,59.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-59.12,60.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-60.12,61.12,"And over the last hour or so, we've been working as hard as we can to try and save his life.",0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,00.2016,Slightly depressed,"Overall, the person in this video is not expressing any emotion."
-61.44,62.44,I'm so sorry. I'm so sorry I have to tell you this.,0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,00.0250,00.0791,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-62.44,63.44,I'm so sorry. I'm so sorry I have to tell you this.,0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,00.0250,00.0791,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-63.44,64.44,I'm so sorry. I'm so sorry I have to tell you this.,0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,00.0250,00.0791,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-64.44,65.44,I'm so sorry. I'm so sorry I have to tell you this.,0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,00.0250,00.0791,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-65.44,66.44,I'm so sorry. I'm so sorry I have to tell you this.,0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,00.0250,00.0791,Neutral,"Overall, the person in this video is expressing extremely high-intensity Sadness."
-67.0,68.0,But he died a few minutes ago.,0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,00.0750,00.2500,00.2610,Slightly excited,"Overall, the person in this video is expressing high-intensity Sadness."
-68.0,69.0,But he died a few minutes ago.,0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,00.0750,00.2500,00.2610,Slightly excited,"Overall, the person in this video is expressing high-intensity Sadness."
-69.0,70.0,But he died a few minutes ago.,0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,00.0750,00.2500,00.2610,Slightly excited,"Overall, the person in this video is expressing high-intensity Sadness."
-70.96,71.96,I can't even begin to imagine how devastating it must be to hear that news.,0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,00.0250,00.1750,00.1768,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-71.96,72.96,I can't even begin to imagine how devastating it must be to hear that news.,0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,00.0250,00.1750,00.1768,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-72.96,73.96,I can't even begin to imagine how devastating it must be to hear that news.,0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,00.0250,00.1750,00.1768,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-73.96,74.96,I can't even begin to imagine how devastating it must be to hear that news.,0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,00.0250,00.1750,00.1768,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-74.96,75.96,I can't even begin to imagine how devastating it must be to hear that news.,0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,00.0250,00.1750,00.1768,Neutral,"Overall, the person in this video is expressing extremely high-intensity Fear-Anxiety."
-76.28,77.28,"So, if you'd like, I can take you through to see your grandad now.",0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,00.1000,00.2000,00.2236,Slightly excited,"Overall, the person in this video is not expressing any emotion."
-77.28,78.28,"So, if you'd like, I can take you through to see your grandad now.",0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,00.1000,00.2000,00.2236,Slightly excited,"Overall, the person in this video is not expressing any emotion."
-78.28,79.28,"So, if you'd like, I can take you through to see your grandad now.",0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,00.1000,00.2000,00.2236,Slightly excited,"Overall, the person in this video is not expressing any emotion."
-79.28,80.28,"So, if you'd like, I can take you through to see your grandad now.",0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,00.1000,00.2000,00.2236,Slightly excited,"Overall, the person in this video is not expressing any emotion."
-80.28,81.28,"So, if you'd like, I can take you through to see your grandad now.",0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,00.1000,00.2000,00.2236,Slightly excited,"Overall, the person in this video is not expressing any emotion."
-82.04,83.04,I need to warn you that he has some blood around his head,0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,00.0750,00.1458,Neutral,"Overall, the person in this video is not expressing any emotion."
-83.04,84.04,I need to warn you that he has some blood around his head,0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,00.0750,00.1458,Neutral,"Overall, the person in this video is not expressing any emotion."
-84.04,85.04,I need to warn you that he has some blood around his head,0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,00.0750,00.1458,Neutral,"Overall, the person in this video is not expressing any emotion."
-85.04,86.04,I need to warn you that he has some blood around his head,0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,00.0750,00.1458,Neutral,"Overall, the person in this video is not expressing any emotion."
-86.2,87.2,and he still has a breathing tube in his mouth.,0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,00.1000,-0.0250,00.1031,Neutral,"Overall, the person in this video is not expressing any emotion."
-87.2,88.2,and he still has a breathing tube in his mouth.,0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,00.1000,-0.0250,00.1031,Neutral,"Overall, the person in this video is not expressing any emotion."
-88.2,89.2,and he still has a breathing tube in his mouth.,0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,00.1000,-0.0250,00.1031,Neutral,"Overall, the person in this video is not expressing any emotion."
-89.68,90.68,We can't take them out for the moment.,0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,00.0500,00.1346,Neutral,"Overall, the person in this video is not expressing any emotion."
-90.68,91.68,We can't take them out for the moment.,0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,00.0500,00.1346,Neutral,"Overall, the person in this video is not expressing any emotion."
-91.68,92.68,We can't take them out for the moment.,0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,00.0500,00.1346,Neutral,"Overall, the person in this video is not expressing any emotion."
-93.4,94.4,"You can spend as much time as you'd like with him,",0.345,0.379,0.424,0.41,0.587,0.03,0.018,0.087,0.419,0.03,-0.2500,00.2250,00.3363,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-94.4,95.4,"You can spend as much time as you'd like with him,",0.345,0.379,0.424,0.41,0.587,0.03,0.018,0.087,0.419,0.03,-0.2500,00.2250,00.3363,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-95.76,96.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-96.76,97.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-97.76,98.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-98.76,99.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-99.76,100.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-100.76,101.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-101.76,102.76,and you can also call any other close relatives who you might want to see him.,0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,00.1500,00.2704,Slightly annoyed,"Overall, the person in this video is expressing low-intensity Anger."
-103.12,104.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-104.12,105.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-105.12,106.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-106.12,107.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-107.12,108.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-108.12,109.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-109.12,110.12,"When you've had enough time, we will move his body to another part of the hospital.",0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,00.1250,00.2151,Slightly annoyed,"Overall, the person in this video is not expressing any emotion."
-110.24,111.24,If you'd like us to arrange contact with our social workers,0.34,0.393,0.394,0.345,0.519,0.014,0.011,0.047,0.624,0.014,-0.1500,00.2750,00.3132,Slightly alarmed,"Overall, the person in this video is not expressing any emotion."
-111.24,112.24,If you'd like us to arrange contact with our social workers,0.34,0.393,0.394,0.345,0.519,0.014,0.011,0.047,0.624,0.014,-0.1500,00.2750,00.3132,Slightly alarmed,"Overall, the person in this video is not expressing any emotion."
-113.16,114.16,"or make any religious arrangements, we can help you with that too.",0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,00.0750,00.0901,Neutral,"Overall, the person in this video is not expressing any emotion."
-114.16,115.16,"or make any religious arrangements, we can help you with that too.",0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,00.0750,00.0901,Neutral,"Overall, the person in this video is not expressing any emotion."
-115.16,116.16,"or make any religious arrangements, we can help you with that too.",0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,00.0750,00.0901,Neutral,"Overall, the person in this video is not expressing any emotion."
-116.16,117.16,"or make any religious arrangements, we can help you with that too.",0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,00.0750,00.0901,Neutral,"Overall, the person in this video is not expressing any emotion."
-117.16,118.16,"or make any religious arrangements, we can help you with that too.",0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,00.0750,00.0901,Neutral,"Overall, the person in this video is not expressing any emotion."
+tAnger,tFear,tSadness,tJoy,tValence,sAnger,sFear,sJoy,sNeutral,sSadness,vValence,vArousal,vIntensity
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.366,0.438,0.439,0.347,0.435,0.106,0.035,0.099,0.417,0.106,-0.1750,0.0750,0.1904
+0.419,0.558,0.637,0.189,0.311,0.122,0.034,0.081,0.396,0.122,-0.1500,0.1000,0.1803
+0.419,0.558,0.637,0.189,0.311,0.122,0.034,0.081,0.396,0.122,-0.1500,0.1000,0.1803
+0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,0.0750,0.1250
+0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,0.0750,0.1250
+0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,0.0750,0.1250
+0.361,0.441,0.341,0.453,0.539,0.122,0.034,0.081,0.396,0.122,-0.1000,0.0750,0.1250
+0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,0.1118
+0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,0.1118
+0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,0.1118
+0.341,0.376,0.383,0.28,0.471,0.031,0.019,0.272,0.263,0.031,-0.1000,-0.0500,0.1118
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.382,0.57,0.519,0.302,0.405,0.037,0.018,0.133,0.5,0.037,-0.0750,0.1000,0.1250
+0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,0.0250,0.3260
+0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,0.0250,0.3260
+0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,0.0250,0.3260
+0.427,0.405,0.411,0.258,0.465,0.018,0.021,0.096,0.216,0.018,-0.3250,0.0250,0.3260
+0.33,0.42,0.463,0.295,0.424,0.059,0.026,0.072,0.369,0.059,-0.1000,0.1750,0.2016
+0.33,0.42,0.463,0.295,0.424,0.059,0.026,0.072,0.369,0.059,-0.1000,0.1750,0.2016
+0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,0.1118
+0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,0.1118
+0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,0.1118
+0.384,0.532,0.539,0.24,0.334,0.014,0.007,0.03,0.819,0.014,-0.1000,-0.0500,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.468,0.593,0.661,0.169,0.238,0.02,0.012,0.089,0.626,0.02,0.0500,-0.1000,0.1118
+0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,0.0500,0.1820
+0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,0.0500,0.1820
+0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,0.0500,0.1820
+0.472,0.651,0.54,0.248,0.29,0.034,0.041,0.124,0.576,0.034,-0.1750,0.0500,0.1820
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.391,0.49,0.46,0.348,0.44,0.033,0.017,0.181,0.509,0.033,-0.1750,-0.1000,0.2016
+0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,0.0250,0.0791
+0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,0.0250,0.0791
+0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,0.0250,0.0791
+0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,0.0250,0.0791
+0.472,0.615,0.707,0.231,0.242,0.069,0.022,0.234,0.325,0.069,-0.0750,0.0250,0.0791
+0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,0.0750,0.2500,0.2610
+0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,0.0750,0.2500,0.2610
+0.382,0.487,0.528,0.219,0.394,0.105,0.036,0.342,0.102,0.105,0.0750,0.2500,0.2610
+0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,0.0250,0.1750,0.1768
+0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,0.0250,0.1750,0.1768
+0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,0.0250,0.1750,0.1768
+0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,0.0250,0.1750,0.1768
+0.431,0.655,0.678,0.294,0.339,0.043,0.013,0.09,0.49,0.043,0.0250,0.1750,0.1768
+0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,0.1000,0.2000,0.2236
+0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,0.1000,0.2000,0.2236
+0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,0.1000,0.2000,0.2236
+0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,0.1000,0.2000,0.2236
+0.312,0.356,0.388,0.364,0.503,0.097,0.016,0.118,0.58,0.097,0.1000,0.2000,0.2236
+0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,0.0750,0.1458
+0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,0.0750,0.1458
+0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,0.0750,0.1458
+0.453,0.525,0.414,0.283,0.379,0.177,0.02,0.16,0.407,0.177,-0.1250,0.0750,0.1458
+0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,0.1000,-0.0250,0.1031
+0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,0.1000,-0.0250,0.1031
+0.429,0.458,0.382,0.276,0.375,0.049,0.038,0.142,0.306,0.049,0.1000,-0.0250,0.1031
+0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,0.0500,0.1346
+0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,0.0500,0.1346
+0.34,0.455,0.424,0.215,0.372,0.049,0.038,0.142,0.306,0.049,-0.1250,0.0500,0.1346
+0.345,0.379,0.424,0.41,0.587,0.03,0.018,0.087,0.419,0.03,-0.2500,0.2250,0.3363
+0.345,0.379,0.424,0.41,0.587,0.03,0.018,0.087,0.419,0.03,-0.2500,0.2250,0.3363
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.275,0.265,0.355,0.321,0.508,0.049,0.015,0.067,0.5,0.049,-0.2250,0.1500,0.2704
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.449,0.502,0.458,0.281,0.436,0.204,0.017,0.056,0.533,0.204,-0.1750,0.1250,0.2151
+0.34,0.393,0.394,0.345,0.519,0.014,0.011,0.047,0.624,0.014,-0.1500,0.2750,0.3132
+0.34,0.393,0.394,0.345,0.519,0.014,0.011,0.047,0.624,0.014,-0.1500,0.2750,0.3132
+0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,0.0750,0.0901
+0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,0.0750,0.0901
+0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,0.0750,0.0901
+0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,0.0750,0.0901
+0.279,0.268,0.322,0.299,0.469,0.014,0.011,0.047,0.624,0.014,-0.0500,0.0750,0.0901
