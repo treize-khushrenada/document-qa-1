@@ -31,6 +31,8 @@ def get_patient_response(doctor_input, client):
 def reset_conversation():
   st.session_state.messages = []
 
+st.title("EmpathBot")
+
 patient_chat, judge = st.columns(2)
 
 with patient_chat:
