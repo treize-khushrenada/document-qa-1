@@ -1,6 +1,12 @@
 import streamlit as st
 from openai import AzureOpenAI
 import os
+#from dotenv import load_dotenv
+#load_dotenv()
+
+# Initialize chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
 client = AzureOpenAI(
   azure_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT"),
@@ -8,13 +14,40 @@ client = AzureOpenAI(
   api_version="2024-05-01-preview"
 )
 
+def get_patient_response(doctor_input, client):
+    messages = [
+                {
+                    "role": "user",
+                    "content": f"you have just be diagnosed stage 4 cancer and you are so upset and have suicidal thoughts. this is a medical consultation with a doctor. this is what he said: {doctor_input} \n\n---\n\n reply to the doctor's message in a conversational manner and keep things short",
+                }
+            ]
+    response = client.chat.completions.create(
+                model="us-east-gpt-4o-mini-2024-07-18",
+                messages=messages,
+                stream=False,
+            )
+    return response.choices[0].message.content
+
+def reset_conversation():
+  st.session_state.messages = []
+
 patient_chat, judge = st.columns(2)
 
 with patient_chat:
-    messages = st.container(height=300)
+    messages = st.container(height=600)
+    with messages:
+        convo_log = ""
+        for message in st.session_state.messages:
+            convo_log += message["role"] + ": " + message["content"]
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
+            
     if patient_chat_input := st.chat_input("Enter message here...", key="patient_chat"):
-        messages.chat_message("user").write(patient_chat_input)
-        messages.chat_message("assistant").write(f"Echo: {patient_chat_input}")
+        st.session_state.messages.append({"role": "Doctor", "content": patient_chat_input})
+        patient_response = get_patient_response(convo_log + patient_chat_input, client)
+        st.session_state.messages.append({"role": "Patient", "content": patient_response})
+        messages.chat_message("Doctor").write(patient_chat_input)
+        messages.chat_message("Patient").write(patient_response)
 
 #with judge:
 #    messages = st.container(height=300)
@@ -27,14 +60,14 @@ with judge:
         eval = st.button("Evaluate", type="primary")
         
     with col2:
-        reset = st.button("Reset", type="secondary")
+        reset = st.button("Reset", type="secondary", on_click=reset_conversation)
     if eval:
         
         def get_answer_from_model(document, client):
             messages = [
                 {
                     "role": "user",
-                    "content": f"Here's a document: {document} \n\n---\n\n translate it to Bahasa Malaysia. Return directly with the translated output in your answer",
+                    "content": f"Here's a conversation between a patient and a doctor: {document} \n\n---\n\n give a professional comment to the doctor's performance, in less than 200 words:",
                 }
             ]
             response = client.chat.completions.create(
@@ -45,9 +78,14 @@ with judge:
             return response.choices[0].message.content
 
         # Generate an answer using the OpenAI API.
-        answer = get_answer_from_model("ahahahahah", client)
+        convo_log = ""
+        for message in st.session_state.messages:
+            convo_log += message["role"] + ": " + message["content"]
+        
+        answer = get_answer_from_model(convo_log, client)
 
         # Display the answer in the Streamlit app.
         st.markdown(answer, unsafe_allow_html=True)
-    if reset:
-        st.write("Click 'Evaluate' to check AI's comments")
+    #if reset:
+    #    st.write("Click 'Evaluate' to check AI's comments")
+    #    st.session_state.messages = []
