@@ -1,9 +1,9 @@
 import streamlit as st
+#st.set_page_config(layout="wide")
 from openai import AzureOpenAI
 import os
 #from dotenv import load_dotenv
 #load_dotenv()
-
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -18,7 +18,8 @@ def get_patient_response(doctor_input, client):
     messages = [
                 {
                     "role": "user",
-                    "content": f"you have just be diagnosed stage 4 cancer and you are so upset and have suicidal thoughts. this is a medical consultation with a doctor. this is what he said: {doctor_input} \n\n---\n\n reply to the doctor's message in a conversational manner and keep things short",
+                    #"content": f"you have just be diagnosed stage 4 cancer and you are so upset and have suicidal thoughts. this is a medical consultation with a doctor. this is what he said: {doctor_input} \n\n---\n\n reply to the doctor's message in a conversational manner and keep things short",
+                    "content": f"you are a {personality} patient being called to meet a doctor at Sengkang Hospital for this medical appointment session, about your diagnosis results. you tend to suspect the diagnosis results and the doctor's medical decisions, and have the urge to speak with a supervisor. this is what he said: {doctor_input} \n\n---\n\n now respond to the doctor in this conversation:",
                 }
             ]
     response = client.chat.completions.create(
@@ -33,7 +34,12 @@ def reset_conversation():
 
 st.title("EmpathBot")
 
-patient_chat, judge = st.columns(2)
+personality = st.selectbox(
+    "Patient's personality",
+    ("Passive", "Needy", "Aggressive"),
+)
+
+patient_chat, judge = st.columns(2, gap="large")
 
 with patient_chat:
     messages = st.container(height=600)
